@@ -1,6 +1,6 @@
 # Drum-kit
 
-![imgae-of-our-drumkit](https://imgur.com/jrpN1BU.png)
+![img-of-our-drumkit](https://imgur.com/jrpN1BU.png)
 
 [see it live](https://awesome-drum-kit.netlify.app/)
 
