@@ -1,4 +1,7 @@
 # Drum-kit
+
+![imgae-of-our-drumkit](https://imgur.com/jrpN1BU.png)
+
 [see it live](https://awesome-drum-kit.netlify.app/)
 
 ## Do you like to play drum? If yes, then you would definitely like it.
